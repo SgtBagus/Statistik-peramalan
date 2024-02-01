@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Statistik-peramalan/static/css/main.241951ba.css",
-    "main.js": "/Statistik-peramalan/static/js/main.77c80a6b.js",
+    "main.js": "/Statistik-peramalan/static/js/main.b8b048ca.js",
     "index.html": "/Statistik-peramalan/index.html",
     "main.241951ba.css.map": "/Statistik-peramalan/static/css/main.241951ba.css.map",
-    "main.77c80a6b.js.map": "/Statistik-peramalan/static/js/main.77c80a6b.js.map"
+    "main.b8b048ca.js.map": "/Statistik-peramalan/static/js/main.b8b048ca.js.map"
   },
   "entrypoints": [
     "static/css/main.241951ba.css",
-    "static/js/main.77c80a6b.js"
+    "static/js/main.b8b048ca.js"
   ]
 }
